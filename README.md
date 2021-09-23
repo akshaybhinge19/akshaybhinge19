@@ -12,7 +12,7 @@
  <a href="https://dev.to/akshaybhinge19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akshaybhinge19" height="30" width="40" /></a>
 </p> 
 
-- 🔭 I’m currently working on [Tic Tac Toe](https://github.com/akshaybhinge19/TicTacToe)
+- 🔭 I’m currently working on [Pokedex](https://github.com/akshaybhinge19/Pokedex)
 
 - 🌱 I’m currently learning **React JS**
 
