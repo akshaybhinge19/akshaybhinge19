@@ -20,7 +20,6 @@
 
 - 💬 Ask me **about anything, I am happy to help;**
 
-- 📫 Reach me **akshaybhinge19@gmail.com**
 
 - ⚡ Fun fact **Money talks. Mine always says goodbye.**
 
