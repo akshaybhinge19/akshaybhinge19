@@ -3,11 +3,9 @@
 <span align="inline"> <img src="https://komarev.com/ghpvc/?username=akshaybhinge19&label=Profile%20views&color=0e75b6&style=flat" alt="akshaybhinge19" /> </span> 
 
 
-- 🔭 I’m currently working on [Tic Tac Toe](https://github.com/akshaybhinge19/TicTacToe)
+- 🔭 I’m currently working on [Pokedex](https://github.com/akshaybhinge19/Pokedex)
 
-- 🌱 I’m currently learning **React JS**
-
-- 🤝 I’m looking for help with **Front End Development**
+- 🤝 I’m looking for help with **Backend**
 
 - 💬 Ask me **about anything, I am happy to help;**
 
@@ -19,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/akshaybhinge19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshaybhinge19" height="30" width="40" /></a>
 <a href="https://dev.to/akshaybhinge19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshaybhinge19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshaybhinge17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaybhinge17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshaybhinge19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaybhinge17" height="30" width="40" /></a>
 <a href="https://codesandbox.com/akshaybhinge19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akshaybhinge19" height="30" width="40" /></a>
 <a href="https://medium.com/@akshaybhinge19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akshaybhinge19" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/akshaybhinge19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akshaybhinge19" height="30" width="40" /></a>
@@ -32,5 +30,8 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
 
 
-</p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaybhinge19&show_icons=true&locale=en&layout=compact" alt="akshaybhinge19" /></p> <br/><br/><br/><br/><br/><br/><br/><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybhinge19&" alt="akshaybhinge19" /></p>
+</p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaybhinge19&show_icons=true&locale=en&layout=compact" alt="akshaybhinge19" /></p> 
+
+<br/><br/><br/><br/><br/><br/><br/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybhinge19&" alt="akshaybhinge19" /></p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akshaybhinge19&show_icons=true&locale=en" alt="akshaybhinge19" /></p>
