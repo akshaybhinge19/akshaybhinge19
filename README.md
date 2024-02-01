@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akshaybhinge19@gmail.com**
 
-- ⚡ Fun fact **Money talks. Mine always says goodbye.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
