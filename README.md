@@ -47,7 +47,20 @@
 
 
 <p></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybhinge19&" alt="akshaybhinge19" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybhinge19&" alt="akshaybhinge19" /></p> -->
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=akshaybhinge19&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=akshaybhinge19"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybhinge19" />
+</picture>
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <p> <p>
