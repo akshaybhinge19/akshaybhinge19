@@ -31,9 +31,9 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>  </p>
 <br/>
 
-</p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaybhinge19&show_icons=true&locale=en&layout=compact" alt="akshaybhinge19" /></p> 
+</p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaybhinge19&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="akshaybhinge19" /></p> 
 
 <p></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybhinge19&" alt="akshaybhinge19" /></p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akshaybhinge19&show_icons=true&locale=en" alt="akshaybhinge19" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akshaybhinge19&show_icons=true&locale=en&theme=default#gh-light-mode-only" alt="akshaybhinge19" /></p>
