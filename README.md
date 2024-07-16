@@ -67,7 +67,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akshaybhinge19&show_icons=true&locale=en#gh-light-mode-only" alt="akshaybhinge19" /></p> -->
 
 
-<picture>
+<!--<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=akshaybhinge19&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -77,4 +77,4 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=akshaybhinge19&show_icons=true" />
-</picture>
+</picture> -->
