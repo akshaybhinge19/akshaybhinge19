@@ -9,7 +9,7 @@
 
 - 💬 Ask me **about anything, I am happy to help;**
 
-- 📫 How to reach me **akshaybhinge19@gmail.com**
+- 📫 How to reach me **a*************@gmail.com**
 
 - ⚡ Fun fact **Money talks. Mine always says goodbye.**
 
