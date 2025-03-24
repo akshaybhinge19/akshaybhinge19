@@ -2,7 +2,6 @@
 <h3 align="center" style="display: inline"> an aspiring developer from India.</h3>
 <span align="inline"> <img src="https://komarev.com/ghpvc/?username=akshaybhinge19&label=Profile%20views&color=0e75b6&style=flat" alt="akshaybhinge19" /> </span> 
 
-
 - 🔭 I’m currently working on [Music App](https://github.com/akshaybhinge19/music-app)
 
 - 🤝 I’m looking for help with **Backend**
